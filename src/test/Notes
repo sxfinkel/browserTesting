@@ -1,0 +1,13 @@
+<input type="text" placeholder="Username" value="">
+
+input[placeholder='Username']
+
+xpath
+//Tagname[@attribute='value']
+//input[@placehold='Username]
+
+<input type ="text" placeholder="name">
+//input[@placeholder='Name']
+
+indexes
+//Tagname[@attribute='value'][index]
